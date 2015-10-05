@@ -1,0 +1,10 @@
+package guitar.lexer;
+
+public enum TokenType {
+	TOKEN_IDENTIFIER,
+	TOKEN_OPERATOR,
+	TOKEN_NUMBER,
+	TOKEN_STRING,
+	TOKEN_CHARACTER,
+	TOKEN_SEPARATOR
+}
